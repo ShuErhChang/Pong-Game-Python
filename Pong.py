@@ -6,7 +6,7 @@ import winsound
 
 wn = turtle.Screen()
 wn.title("Pong by @ShuErhChang")
-wn.bgcolor("black")
+wn.bgcolor("green")
 wn.setup(width =800 ,height= 600)
 wn.tracer(0)
 # wn.tracer(0) need to update manually,to speed up the game  
